@@ -53,13 +53,10 @@ Daftar langkah pengerjaan:
 8. Upload file ke GitHub
 9. Submit ke Classroom
 
-File skema: `skema_tugas.md`
-
----
 
 # 🎥 VIDEO DOKUMENTASI
 Video lengkap dapat dilihat melalui link berikut:
-👉 https://youtu.be/XXXXXXXXXX
+👉 https://youtu.be/0QpE3GyGztM
 
 ---
 
